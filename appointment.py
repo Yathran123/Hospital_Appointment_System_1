@@ -1,12 +1,14 @@
 print("Hospital Appointment Booking System")
-Patient_name ="Deeksha"
-Doctor ="Dr.Yathran"
-print("Patient Name:", Patient_name)
-print("Doctor:",Doctor)
+
+patient_name = "Deeksha"
+doctor = "Dr. Yathran"
+
+print("Patient Name:", patient_name)
+print("Doctor:", doctor)
+
+print("Doctor Login")
+username = "doctor123"
+password = "doctor@123"
+
 print("Appointment Registered Successfully")
-username = "Yathran123"
-password = "12345"
-print("Login Feature Added")
-print("Username:", username)
-print("Password:", password)
 
