@@ -6,9 +6,9 @@ doctor = "Dr. Yathran"
 print("Patient Name:", patient_name)
 print("Doctor:", doctor)
 
-print("Doctor Login")
-username = "doctor123"
-password = "doctor@123"
+print("Admin Login")
+username = "admin123"
+password = "admin@123"
 
 print("Appointment Registered Successfully")
 
